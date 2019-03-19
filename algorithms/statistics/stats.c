@@ -23,3 +23,9 @@ double calculate_mean(double *input_signal, int length){
     mean += input_signal[i];
   return mean / length;
 }
+
+double calculate_variance (double *input_signal, int length){
+ int i ;
+ double variance = 0; 
+
+}
